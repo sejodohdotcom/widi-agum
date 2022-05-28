@@ -89,9 +89,9 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, rgba(255, 255, 255, 0.5)), to(#E3BE9A)), url(../assets/main-bg.png) !important;
-    background-image: -o-linear-gradient(top, rgba(255, 255, 255, 0.5) 10%, #E3BE9A 100%), url(../assets/main-bg.png) !important;
-    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.5) 10%, #E3BE9A 100%), url(../assets/main-bg.png) !important;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, rgba(255, 255, 255, 0.75)), to(#E3BE9A)), url(../assets/main-bg.png) !important;
+    background-image: -o-linear-gradient(top, rgba(255, 255, 255, 0.75) 10%, #E3BE9A 100%), url(../assets/main-bg.png) !important;
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.75) 10%, #E3BE9A 100%), url(../assets/main-bg.png) !important;
 }
 
 .pyc-6 {
@@ -105,12 +105,16 @@
     position: absolute;
     bottom: 5vh;
     left: 50%;
-    -webkit-transform: translate(-50%, -100%);
-    -ms-transform: translate(-50%, -100%);
-    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -15%);
+    -ms-transform: translate(-50%, -15%);
+    transform: translate(-50%, -15%);
 }
-.hiasan img, .couple-icon img {
+.hiasan img {
     width: 200px;
+    height: auto;
+}
+.couple-icon img {
+    width: 300px;
     height: auto;
 }
 .spacing-text-1 {
