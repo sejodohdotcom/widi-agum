@@ -89,9 +89,9 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, rgba(255, 255, 255, 0.5)), to(#E3BE9A)), url(/assets/main-bg.png) !important;
-    background-image: -o-linear-gradient(top, rgba(255, 255, 255, 0.5) 10%, #E3BE9A 100%), url(/assets/main-bg.png) !important;
-    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.5) 10%, #E3BE9A 100%), url(/assets/main-bg.png) !important;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, rgba(255, 255, 255, 0.5)), to(#E3BE9A)), url(../assets/main-bg.png) !important;
+    background-image: -o-linear-gradient(top, rgba(255, 255, 255, 0.5) 10%, #E3BE9A 100%), url(../assets/main-bg.png) !important;
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.5) 10%, #E3BE9A 100%), url(../assets/main-bg.png) !important;
 }
 
 .pyc-6 {
@@ -220,9 +220,9 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(255, 255, 255, 0)), to(#FFF4E9)), url(/assets/test-bg.png) !important;
-    background-image: -o-linear-gradient(bottom, rgba(255, 255, 255, 0) 0%, #FFF4E9 100%), url(/assets/test-bg.png) !important;
-    background-image: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, #FFF4E9 100%), url(/assets/test-bg.png) !important;
+    background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(255, 255, 255, 0)), to(#FFF4E9)), url(../assets/test-bg.png) !important;
+    background-image: -o-linear-gradient(bottom, rgba(255, 255, 255, 0) 0%, #FFF4E9 100%), url(../assets/test-bg.png) !important;
+    background-image: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, #FFF4E9 100%), url(../assets/test-bg.png) !important;
 }
 
 .couple-wrapper .nama-calon {
@@ -288,9 +288,9 @@
     background-position: right;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(25%, rgba(255, 255, 255, 0)), color-stop(90%, #E3BE9A)), url('/assets/count-bg.png') !important;
-    background-image: -o-linear-gradient(top, rgba(255, 255, 255, 0) 25%, #E3BE9A 90%), url('/assets/count-bg.png') !important;
-    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 25%, #E3BE9A 90%), url('/assets/count-bg.png') !important;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(25%, rgba(255, 255, 255, 0)), color-stop(90%, #E3BE9A)), url('../assets/count-bg.png') !important;
+    background-image: -o-linear-gradient(top, rgba(255, 255, 255, 0) 25%, #E3BE9A 90%), url('../assets/count-bg.png') !important;
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) 25%, #E3BE9A 90%), url('../assets/count-bg.png') !important;
 }
 
 .count-down-wrapper::after {
@@ -538,8 +538,8 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: -o-linear-gradient(230deg, rgba(255, 230, 206, 0.5) 100%, #BE9265 100%), url(/assets/cover-bg.png) !important;
-    background-image: linear-gradient(220deg, rgba(255, 230, 206, 0.5) 100%, #BE9265 100%), url(/assets/cover-bg.png) !important;
+    background-image: -o-linear-gradient(230deg, rgba(255, 230, 206, 0.5) 100%, #BE9265 100%), url(../assets/cover-bg.png) !important;
+    background-image: linear-gradient(220deg, rgba(255, 230, 206, 0.5) 100%, #BE9265 100%), url(../assets/cover-bg.png) !important;
 }
 
 #open-envelope {
