@@ -29,7 +29,9 @@
 .montserrat {
     font-family: 'Montserrat', sans-serif;
 }
-
+.ly {
+    font-family: 'Lavishly Yours', cursive;
+}
 .floral {
     font-family: 'Boheme Floral', sans-serif;
 }
@@ -880,7 +882,9 @@
     .couple-wrapper .nama-besan {
         font-size: 14px;
     }
-
+    .quote {
+        font-size: 32px;
+    }
     .covid-alert p.title {
         font-size: 14px;
     }
@@ -1030,7 +1034,9 @@
     .couple-wrapper .nama-besan {
         font-size: 16px;
     }
-
+    .quote {
+        font-size: 40px;
+    }
     .couple-wrapper .foto-calon {
         width: 100%;
         margin: 0 auto;
