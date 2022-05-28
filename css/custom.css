@@ -178,7 +178,7 @@
 }
 
 .doa-background {
-    background-image: url(/assets/paper-bg.jpg) !important;
+    background-image: url(../assets/paper-bg.jpg) !important;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -328,7 +328,7 @@
 }
 
 .card.card-custom.akad {
-    background-image: url(/assets/paper-bg.jpg) !important;
+    background-image: url(../assets/paper-bg.jpg) !important;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -647,7 +647,7 @@
     width: 100vw;
     background-position: left;
     content: "";
-    background: url(/assets/floral-left.png) no-repeat;
+    background: url(../assets/floral-left.png) no-repeat;
     background-size: contain;
     left: 0;
     top: 0;
@@ -664,7 +664,7 @@
     position: absolute;
     width: 100vw;
     content: "";
-    background: url(/assets/floral-right.png) no-repeat;
+    background: url(../assets/floral-right.png) no-repeat;
     background-size: contain;
     right: 0;
     background-position: right;
