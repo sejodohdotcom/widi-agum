@@ -64,13 +64,13 @@ $(document).ready(function() {
     document.getElementById("name-to").innerHTML = get_Name;
 
     AOS.init({
-        duration: 1500,
+        duration: 2500,
         mirror: false,
         once: true
     });
 
     document.querySelector("#share-lock").onclick = function() {
-        window.open('https://maps.app.goo.gl/cZpye44PGhXuoqok9', '_blank'); 
+        window.open('https://goo.gl/maps/gb87bRu3VJVvBZFZ9', '_blank'); 
     };
 
 
