@@ -75,7 +75,7 @@ $(document).ready(function() {
 
 
     var sound = new Howl({
-        src: ['./assets/song.mp3'],
+        src: ['https://www.mboxdrive.com/song.mp3'],
         autoplay: true,
         loop: true,
     });
